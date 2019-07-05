@@ -4,12 +4,13 @@ Held at the Fawkes Training Room on 5th November from 13:00 to 17:00
 ### Trainers
 Ash.    
 Mark.   
+Lauren.
 
 ## Topics
 Headings   
 Bullet point lists (& nesting). 
-* Point 1
-   * nested point 1
+* How to get the to room
+   * walk up some stairs
 * Point 2.  
 
 Ordered lists (& nesting)   
